@@ -88,7 +88,6 @@ dependencies[] = views
 dependencies[] = views_ui
 dependencies[] = wysiwyg_filter
 
-
-; Added by build script on 20170327.0632
-version = "17.03.27.00"
+; Version displayed on status page
+version = "4.17.05.00"
     
