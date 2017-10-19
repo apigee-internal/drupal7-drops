@@ -444,7 +444,7 @@ projects[variable][version] = "2.5"
 ; Enabled on install.
 projects[views][type] = "module"
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.16"
+projects[views][version] = "3.17"
 
 ; Deprecated
 projects[views_accordion][type] = "module"
